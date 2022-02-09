@@ -1,6 +1,6 @@
-## Hi there, I'm Rafet 👋
+## Hi there, my name is Rafet 👋
 
-## I'm a FullStack Software engineer.
+## 🖥️  I'm a FullStack Software engineer.
 
 ## Languages and Tools:
 <p alignitem="center">
