@@ -1,4 +1,4 @@
-## Hi there, my name is Rafet 👋
+## Hi there, my name is Rafet �<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🖥️  I'm a FullStack Software engineer.
 
