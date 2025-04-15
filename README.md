@@ -1,4 +1,4 @@
-## Hi there, my name is Rafet 👋
+## Hi there, I'm Kevin 👋
 
 ## 🖥️  I'm a FullStack Software engineer.
 
